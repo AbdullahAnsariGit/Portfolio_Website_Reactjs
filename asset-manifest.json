@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/abdullahtech11/Portfolio_Website_Reactjs/static/css/main.dd8e22c7.css",
+    "main.js": "/abdullahtech11/Portfolio_Website_Reactjs/static/js/main.df1dcf54.js",
+    "static/js/787.67b99310.chunk.js": "/abdullahtech11/Portfolio_Website_Reactjs/static/js/787.67b99310.chunk.js",
+    "static/media/logo-s.png": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/logo-s.d3dc2b93aece202da53d.png",
+    "static/media/helvetica-neu.ttf": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/abdullahtech11/Portfolio_Website_Reactjs/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/abdullahtech11/Portfolio_Website_Reactjs/index.html",
+    "main.dd8e22c7.css.map": "/abdullahtech11/Portfolio_Website_Reactjs/static/css/main.dd8e22c7.css.map",
+    "main.df1dcf54.js.map": "/abdullahtech11/Portfolio_Website_Reactjs/static/js/main.df1dcf54.js.map",
+    "787.67b99310.chunk.js.map": "/abdullahtech11/Portfolio_Website_Reactjs/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8e22c7.css",
+    "static/js/main.df1dcf54.js"
+  ]
+}
